@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/template.xsl"?>
+<main lang="ru" title="Игровые посты" type="games">
+<sectione type="main">
+    <title>Посты про игры (Обзоры, рассуждения, и т.п)</title>
+    <back />
+    <post href="/blog/posts/2026/1016-1.xml" title="Мой обзор по игре SuperTuxKart " date="16.10.2026"/>
+    <post href="/blog/posts/2026/0913-2.xml" title="Мысли об идее с DOOM " date="13.09.2026"/>
+</sectione>
+</main>

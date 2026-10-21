@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/blog/template.xsl"?>
+<main lang="ru" title="Карта Happy wheels" type="games">
+    <pinfo title="Don't move or die" date="17.10.2026" />
+    <pimg src="/games/UGC/Happy-Wheels/2026/img/1017-1.png" />
+    <text>
+        Моя карта, в ней не надо не на что нажимать
+        <p> <a href="https://totaljerkface.com/happy_wheels.tjf?level_id=11115768">Играть (браузерная версия уровня поломана, купите игру)</a></p>
+        <p> <a href="https://gitlab.com/RailTrooper/trooperland/-/blob/main/games/UGC/happy-wheels/2026/Don_t_move_or_die.txt">Исходный код</a></p>
+    </text>
+</main>

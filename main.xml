@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/template.xsl"?>
+<main lang="ru" title="TrooperLand!">
+<section type="main">
+    <title>Главная страница</title>
+    <p>Добро пожаловать в мой инди сайт!</p>
+    <p>Это сайт в стиле старых сайтов, который делаю я как хобби</p>
+    <p>
+      <br>Выключите расширения делающие страницу темной</br>
+      <br>Страница может отображать некоректно</br>
+      <br>Она и так темная</br>
+    </p>
+    <p>Снизу все важные ссылки</p>
+  </section>
+  <section type="link">
+    <mtitle>Ссылки</mtitle>
+    <tw>
+    <a href="/about.xml">[Обо-мне!]</a>
+    <a href="/blog/blog.xml">[Блог]</a>
+    <a href="/games/hub.xml">[Игровой-отдел]</a>
+    <a href="/links.xml">[Другие-Ссылки]</a>
+    </tw>
+  </section>
+  <section type="board">
+    <mtitle>Доска обьявлений</mtitle>
+    <skip />
+    <an>
+    <a href="/blink.xml">blink</a> or contact me pls
+    </an>
+    <an>Переписываю визуал сайта на это уйдет время, но обновления статей будут</an>
+    <an>Чуть чуть я поменял макет страницы</an>
+    <an>Хватит уже читать с телефона, хотя бы для приличия смотрите с горизонтальной ориентацией</an>
+    <an>У меня до сех пор в планах интерактивная галерея :]</an>
+  </section>
+  <sectione type="blink">
+    <b href="https://tamanotchi.world/" img="https://tamanotchi.world/includes/img/tamanotchi.gif" />
+    <b href="https://ransei.neocities.org/" img="https://ransei.neocities.org/assets/img/embed.gif" />
+    <b href="https://time-travelling-birb.neocities.org/" img="https://time-travelling-birb.neocities.org/images/TTB-button1.gif" />
+    <b href="https://gobbolab.com/" img="https://gobbolab.com/images/buttons/gobbo_lab_button.gif" />
+  </sectione>
+</main>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/template.xsl"?>
+<main lang="ru" title="TrooperLand! Games" type="games">
+<sectione type="main">
+    <title>Игры</title>
+    <back />
+    <pa href="/games/UGC.xml">Игровой контент (UGC)</pa>
+    <pa href="/games/posts.xml">Посты про игры</pa>
+  </sectione>
+</main>

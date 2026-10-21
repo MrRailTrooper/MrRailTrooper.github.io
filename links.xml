@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/template.xsl"?>
+<main lang="ru" title="Ссылки">
+<sectione type="main">
+    <title>Ссылки</title>
+    <back />
+    <det>
+        <sum>В пределах этого сайта</sum>
+        <pa href="/about.xml">Обо мне!</pa>
+        <pa href="/blog/blog.xml">Блог</pa>
+        <pa href="/games/hub.xml">Игровой отдел</pa>
+    </det>
+    <sk />
+    <det>
+        <sum>Вне этого сайта</sum>
+        <pa href="https://windows93.net/">Управление моим ПК</pa>
+        <pa href="https://neocities.org/">Neocities</pa>
+    </det>
+    <sk />
+    <det>
+        <sum>Служебные</sum>
+        <pa href="/blink.xml">blink</pa>
+        <pa href="/404.html">Не найденая страница</pa>
+        <pa href="/template.xsl">Мой Шаблон</pa>
+    </det>
+  </sectione>
+</main>

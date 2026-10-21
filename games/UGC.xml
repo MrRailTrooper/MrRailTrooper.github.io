@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/template.xsl"?>
+<main lang="ru" title="UGC" type="games">
+<sectione type="main">
+    <title>Игровой контент (UGC)</title>
+    <back />
+    <mtitle>Игры</mtitle>
+    <html>
+    <ul>
+    <h3>D</h3>
+    <li><p><a href="/games/UGC/doom.xml">Doom </a></p></li>
+    <h3>H</h3>
+    <li><p><a href="/games/UGC/happy-wheels.xml">happy Wheels </a></p></li>
+    </ul>
+    </html>
+</sectione>
+</main>

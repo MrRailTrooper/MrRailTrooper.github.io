@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/template.xsl"?>
+<main lang="ru" title="Блог">
+<sectione type="main">
+    <title>Блог</title>
+    <back />
+    <post href="/blog/posts/2026/1016-1.xml" title="Мой обзор по игре SuperTuxKart " date="16.10.2026"/>
+    <post href="/blog/posts/2026/0930-1.xml" title="Почему я отсутсвовал " date="30.09.2026"/>
+    <post href="/blog/posts/2026/0920-1.xml" title="Что с нами будет если мы попадем в 4D, и подобные размышления " date="20.09.2026"/>
+    <post href="/blog/posts/2026/0916-1.xml" title="Пару слов об написании сайтов " date="16.09.2026"/>
+    <post href="/blog/posts/2026/0914-1.html" title="Пометка MarkDown " date="14.09.2026" data="(Не актуально)"/>
+    <post href="/blog/posts/2026/0913-2.xml" title="Мысли об идее с DOOM " date="13.09.2026"/>
+    <post href="/blog/posts/2026/0913-1.xml" title="Мой первый пост " date="13.09.2026"/>
+</sectione>
+</main>

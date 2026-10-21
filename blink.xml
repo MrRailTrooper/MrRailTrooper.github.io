@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/template.xsl"?>
+<main lang="ru" title="Blink">
+<sectione type="main">
+  <back />
+  <a href="https://MrRailTrooper.github.io/"><im src="https://MrRailTrooper.github.io/assets/blink.gif" alt="TrooperLand!" /></a>
+  <pcode>
+    &lt;a href="https://MrRailTrooper.github.io/"&gt;&lt;img src="https://rRailTrooper.github.io/assets/blink.gif" alt="TrooperLand!" /&gt; &lt;/a&gt;
+  </pcode>
+</sectione>
+</main>

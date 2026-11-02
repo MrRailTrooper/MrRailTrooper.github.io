@@ -4,6 +4,7 @@
 <sectione type="main">
     <title>Блог</title>
     <back />
+    <post href="/blog/posts/2026/1102-1.xml" title="О том как я вспомнил маскота " date="02.11.2026"/>
     <post href="/blog/posts/2026/1016-1.xml" title="Мой обзор по игре SuperTuxKart " date="16.10.2026"/>
     <post href="/blog/posts/2026/0930-1.xml" title="Почему я отсутсвовал " date="30.09.2026"/>
     <post href="/blog/posts/2026/0920-1.xml" title="Что с нами будет если мы попадем в 4D, и подобные размышления " date="20.09.2026"/>

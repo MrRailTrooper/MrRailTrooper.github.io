@@ -6,7 +6,7 @@
     <back />
     <p>Ник мой MrRailTrooper, но проще просто trooper</p>
     <p>Я создал этот сайт как хобби</p>
-    <p>Я учу HTML!</p>
+    <p>Я учу HTML! (и XML)</p>
     <p>Я использую openSUSE кстати</p>
   </section>
   <section type="games">
@@ -15,12 +15,14 @@
       <li>DOOM (1993)</li>
       <li>Quake</li>
       <li>Grand Theft Auto: San Andreas</li>
-      <li>Gmod</li>
+      <li>Happy Wheels</li>
       <li>Overgrowth</li>
     </ul>
   </section>
   <sectione type="neocity">
+    <p>Больше не</p>
     <im src="/assets/neocities.png" alt="Hosted by neocities" />
     <p>Кстати</p>
+    <p>Теперь я перевел все на github</p>
   </sectione>
 </main>

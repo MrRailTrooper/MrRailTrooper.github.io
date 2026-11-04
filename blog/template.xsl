@@ -103,4 +103,7 @@
             <xsl:apply-templates />
         </b>
     </xsl:template>
+    <xsl:template match="html">
+        <xsl:apply-templates />
+    </xsl:template>
 </xsl:stylesheet>
